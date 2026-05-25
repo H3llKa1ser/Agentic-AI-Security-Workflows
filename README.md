@@ -241,7 +241,3 @@ Month 2: Multi-agent workflows with CrewAI
 
 ---
 
-Would you like me to:
-- 📄 **Create a step-by-step setup guide** as a Word document?
-- 🐍 **Write the actual Python code** for any specific workflow?
-- 🗺️ **Create a visual architecture diagram** for your preferred stack?
