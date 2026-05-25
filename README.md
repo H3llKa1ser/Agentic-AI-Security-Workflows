@@ -6,7 +6,7 @@ REWRITE THE README FILE LATER
 
 # Building Cybersecurity AI Workflows for Free 💰✅
 
-Absolutely! Most of these workflows can be built **completely free** or with **generous free tiers**. Here's a full breakdown:
+Most of these workflows can be built **completely free** or with **generous free tiers**. Here's a full breakdown:
 
 ---
 
